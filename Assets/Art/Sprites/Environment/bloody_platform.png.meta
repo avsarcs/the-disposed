@@ -122,12 +122,12 @@ TextureImporter:
       name: bloody_platform_0
       rect:
         serializedVersion: 2
-        x: 47
+        x: 48
         y: 287
         width: 258
         height: 482
-      alignment: 9
-      pivot: {x: 0.13044062, y: 0.4993219}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 1, y: 0, z: 1, w: 0}
       customData: 
       outline: []
